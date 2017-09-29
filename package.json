@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-alipay",
+  "version": "1.0.5",
+  "description": "a cordova plugin, a JS version of Alipay SDK(20170725)",
+  "_resolved": "http://192.168.1.230:3000/zhaoweihong/cordova-plugin-alipay/archive/1.0.5.tar.gz",
+  "cordova": {
+    "id": "cordova-plugin-alipay",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "alipay",
+    "cordova-plugin-alipay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.1.230:3000/zhaoweihong/cordova-plugin-alipay.git"
+  },
+  "bugs": {
+    "url": "http://192.168.1.230:3000/zhaoweihong/cordova-plugin-alipay.git/issues"
+  },
+  "homepage": "http://192.168.1.230:3000/zhaoweihong/cordova-plugin-alipay.git",
+  "author": "zwhl",
+  "license": "ISC"
+}
